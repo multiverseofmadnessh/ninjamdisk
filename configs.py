@@ -4,11 +4,11 @@ import os
 class Config(object):
     API_ID = int(os.getenv("API_ID", "25894461"))
     API_HASH = os.getenv("API_HASH", "5ac4385e6f2af66191a549542e2e9d6a")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "5991940775:AAFughcgq9Ew5vMRflcVJrgQHooyDNc-adA")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "LinkSearchbot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", -100))
-    BOT_USERNAME = os.getenv("BOT_USERNAME")
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "Ary_link_search_bot")
     BOT_OWNER = int(os.getenv("BOT_OWNER"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL")
