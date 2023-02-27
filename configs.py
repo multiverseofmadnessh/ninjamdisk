@@ -6,7 +6,7 @@ class Config(object):
     API_HASH = os.getenv("API_HASH", "5ac4385e6f2af66191a549542e2e9d6a")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5991940775:AAFughcgq9Ew5vMRflcVJrgQHooyDNc-adA")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "LinkSearchbot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOMgBu76TUjOzIUQrPxrE4cGa3iFzCI8xJwcWnroiRaMItESb_F2j7EES6flALn5k4WLlHpbLzqpnkbQvVcu21CxpxF5_c0WYEP8TC61gB2Cbp5aqYqMdmNkT3QTWx1F208v0xjvNvOJx8auyuzxBE6VBl8Eg3-fWA0XVLsHepp6VpIjMv2cFi2tXIbLcdj8NjSLu0H-xFsCUOK3cPC4tbPncBlPH077ma7xX8480WFV8wrujdtiCQIiCAuzgAOc_TtEZ5Hez509NvR_Lt8C9BsaSwj0m2h5qTJ9QiC_xYJOyu2Bfoz7BG97IViO3xaLx9Mlmf2YP4g3BIiKBNELkLI2y98A=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", -100))
     BOT_USERNAME = os.getenv("BOT_USERNAME", "Ary_link_search_bot")
     BOT_OWNER = int(os.getenv("BOT_OWNER"))
@@ -33,7 +33,7 @@ Fᴏʀ Mᴏʀᴇ Iɴꜰᴏ Cʟɪᴄᴋ Oɴ Hᴇʟᴘ ✅''')
     UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "")
     FORCE_SUB = os.getenv("FORCE_SUB", "False")
     AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", 300))
-    MDISK_API = os.getenv("MDISK_API", "12334")
+    MDISK_API = os.getenv("MDISK_API", "l1byxdzqYxkvia9Qodpd")
     VERIFIED_TIME  = int(os.getenv("VERIFIED_TIME", "365"))
     ABOUT_BOT_TEXT = os.getenv("ABOUT_TEXT", '''I ᴏɴʟʏ ꜱʜᴀʀᴇ ᴛʜᴇ ᴘᴏꜱᴛ ꜰʀᴏᴍ ᴘᴇᴏᴘʟᴇ'ꜱ ᴄʜᴀɴɴᴇʟ! ᴡʜᴏ ᴍᴀᴅᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ᴛʜᴀᴛ ᴄʜᴀɴɴᴇʟ, i ᴅᴏ ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ.✅
 
